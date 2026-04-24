@@ -1,0 +1,5 @@
+Full name : Abeerah Jamshaid 
+Registration number : SP26-ELC-004
+Section : ELC-1A
+Question: Why programming is important for me?
+Answer:Learning programming is vital because it transforms technology from a tool I use into a medium I control. While basic functionality is important, modern development now demands a deeper focus on optimization, scalability, and maintainability. Mastering these principles allows me to build high-performance code that remains efficient under heavy loads. By prioritizing resource management and clean architecture, I can move beyond simple scripts to create robust, engineered solutions. Ultimately, I want to ensure my work isn't just functional, but optimized for the rigorous demands of the digital future.
